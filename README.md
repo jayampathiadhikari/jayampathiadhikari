@@ -1,12 +1,12 @@
-### Hello there !  I'm Jayampathi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></br>
+### Hello there !  I'm Jayampathi </br>
 
-## 🙋‍♂️ About me
+## About me
 
 - 🎓 Final Year Computer Science and Engineering Undergraduate
 - 💻 Software Engineer at Radical Ledger Technologies Pvt. Ltd
 <br />
 
-## 🚀 Languages and Tools
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -25,7 +25,7 @@
 
 <br/>
 
-## 👯 Connect with me:
+## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jayampathi-adhikari/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
