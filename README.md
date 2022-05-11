@@ -3,7 +3,7 @@
 ## About me
 
 - 🎓 Final Year Computer Science and Engineering Undergraduate
-- 💻 Software Engineer at Radical Ledger Technologies Pvt. Ltd
+- 💻 Software Engineer at CreativeSoftware
 <br />
 
 ## Languages and Tools
