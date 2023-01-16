@@ -11,21 +11,21 @@
 -Java
 -Scala
 -Python
--Typescript
--Javascript
+-Keras
+
+-Typescript / Javascript
 -ReactJS
 -NodeJS
 -ExpressJS
 
-<br/>
 -MySQL
 -PostgreSQL
 -MongoDB
+
 -Firebase
 -AWS
 
-<br/>
--Tensorflow Keras
+-Git
 
 <br/>
 
