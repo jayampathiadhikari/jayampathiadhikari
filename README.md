@@ -8,19 +8,24 @@
 
 ## Skilled in following Languages/Frameworks and Tools
 
-Java
-Scala
-Python
-Typescript
-Javascript
-ReactJS
-NodeJS
-ExpressJS
-MySQL
-PostgreSQL
-MongoDB
-Firebase
-AWS
+-Java
+-Scala
+-Python
+-Typescript
+-Javascript
+-ReactJS
+-NodeJS
+-ExpressJS
+
+<br/>
+-MySQL
+-PostgreSQL
+-MongoDB
+-Firebase
+-AWS
+
+<br/>
+-Tensorflow Keras
 
 <br/>
 
