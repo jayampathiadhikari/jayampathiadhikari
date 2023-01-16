@@ -3,6 +3,7 @@
 ## About me
 
 - 💻 Software Engineer at Pagero
+- 🎓 Graduated from Department of Computer Science and Engineering, University of Moratuwa
 <br />
 
 ## Languages and Tools
