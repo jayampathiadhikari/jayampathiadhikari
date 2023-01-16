@@ -2,8 +2,7 @@
 
 ## About me
 
-- 🎓 Final Year Computer Science and Engineering Undergraduate
-- 💻 Software Engineer at CreativeSoftware
+- 💻 Software Engineer at Pagero
 <br />
 
 ## Languages and Tools
